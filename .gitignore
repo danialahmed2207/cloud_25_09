@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Lab artifacts
+labs/*/artifacts/
+labs/*/temp/
+
+# Local environment
+.env
